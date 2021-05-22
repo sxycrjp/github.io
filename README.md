@@ -1,2 +1,2 @@
-# sxycrjp.github.io
+# github.io
 Personal Blog
